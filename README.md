@@ -1,6 +1,8 @@
 # MindCheck Alzheimer's
 
-[App Image](brainlogo.png "MindCheck Alzheimer's")
+<p align="center">
+  <img src="brainlogo.png" alt="MindCheck Alzheimer's" width="200">
+</p>
 
 The Alzheimer’s App is an innovative tool designed to assist in analyzing and visualizing brain wave activity and eye-tracking data, providing valuable insights for early detection and monitoring of Alzheimer’s disease. The app integrates EEG data processing, eye movement analysis, and visual feedback to offer an interactive and user-friendly experience. Utilizing advanced algorithms, it transforms complex data into actionable insights displayed through intuitive visualizations
 
